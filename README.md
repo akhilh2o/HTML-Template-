@@ -1,5 +1,5 @@
-HTML Template
-Usage:
+# HTML Template
+# Usage:
     Please download "HTML_Template".
     Copy to your safest folder like D:\ or E:\
     Extract it
